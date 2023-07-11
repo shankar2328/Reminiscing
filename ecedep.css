@@ -1,0 +1,133 @@
+#homepic0{
+    background-color: bisque;
+    margin-top:20px;
+    margin-left: 425px;
+}
+#box-left{
+    padding-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top:30px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+#box-mid{
+    flex: 1;
+    margin-left: -20px;
+    margin-right: 35px;
+    max-width: 500px;
+    display: flex;
+    align-items: center;
+}
+#box-right{
+    width: 200px;
+    display:flex;
+    align-items: center;
+}
+
+#left{
+    width:300px;
+}
+
+#backleft{
+    height:1580px;
+    width:300px;
+}
+#logout{
+    width: 50%;
+    height:35px;
+    margin-left:50px;
+    text-decoration: none;
+    
+}
+#header {
+    width :100%;
+    margin-left:-5px;
+    margin-top: 1px;
+    height: 100px;
+
+    border-width: 5px;
+    border-style: solid;
+    border-color: green;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+ 
+  #search {
+    flex: 1;
+    height: 36px;
+    padding-left: 10px;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(192, 192, 192);
+    border-radius: 2px;
+    box-shadow: inset 1px 2px 3px rgba(0, 0, 0, 0.05);
+    width: 0;
+  }
+  
+  #search-button {
+    height: 40px;
+    width: 66px;
+    background-color: rgb(240, 240, 240);
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(192, 192, 192);
+    margin-left: -1px;
+    margin-right: 10px;
+  }
+  
+  #search-icon {
+    height: 25px;
+    margin-top: 4px;
+  }
+
+  #leftpic{
+    height:150px;
+    margin-top:60px;
+  }
+   
+  #main{
+    width :100%;
+    margin-left:-5px;
+    margin-top: 5px;
+    height: auto;
+    
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  #all{
+    
+    border-style:solid;
+    border-color:lightblue;
+    height: 300px;
+}
+#qualification{
+    font-size: 25px;
+    margin-top: 20px;
+    text-decoration: underline;
+    text-decoration:underline;
+}
+#name{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+#data{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#emailpic{
+    margin-top:15px;
+    height:15px;
+}
+#email{
+    padding-left:5px;
+    display: inline-block
+}
